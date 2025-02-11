@@ -19,3 +19,12 @@ This project focuses on analyzing transactional and user behavior data from Blin
 
 - Dashboard interaction<a href="https://github.com/Bharath-2112/Data-Analysis-Dashboard/blob/main/Blinkit%20Data%20Analysis.xlsx">View Dashboard</a>
 
+## Process 
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is constitent and clean with respect to data type, data format and values used.
+- created pivot tables according to the question asked.
+- Merge all pivot tables into one dashboard and apply slicer make dynamic.
+
+  ## Dashboard
+
+  ![screenshot blinkit](https://github.com/user-attachments/assets/2c2633c3-585e-42dc-ba77-19b07d1708da)
