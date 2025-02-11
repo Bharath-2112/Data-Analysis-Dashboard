@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved the several stages, including data preprocessing, data cleaning, and data visualization.
+#Blinkit-Data-Analysis(interactive dashboard creation using MS Excel)
+##Project Objectives
+This project focuses on analyzing transactional and user behavior data from Blinkit (formerly Grofers), an online grocery delivery service. The goal is to uncover patterns, trends, and insights that can drive business decisions and improve customer experience
+
