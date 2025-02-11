@@ -17,7 +17,7 @@ This project focuses on analyzing transactional and user behavior data from Blin
 - Based on the Outlet Establishment trend, which years show potential for market expansion?
 - Considering the performance of different outlet tiers and sizes, where should Blinkit focus its next round of investment?
 
-- Dashboard interaction<a href="https://github.com/Bharath-2112/Data-Analysis-Dashboard/blob/main/Blinkit%20Data%20Analysis.xlsx">View Dashboard</a>
+- Dashboard interaction<a href="https://github.com/Bharath-2112/Data-Analysis-Dashboard/blob/main/Blinkit%20Data%20Analysis.xlsx"> View Dashboard</a>
 
 ## Process 
 - Verify data for any missing values and anomalies, and sort out the same.
