@@ -16,3 +16,6 @@ This project focuses on analyzing transactional and user behavior data from Blin
 - Which Outlet Type has the highest number of items sold, and how does it compare in terms of revenue and ratings?
 - Based on the Outlet Establishment trend, which years show potential for market expansion?
 - Considering the performance of different outlet tiers and sizes, where should Blinkit focus its next round of investment?
+
+- Dashboard interaction<a href="https://github.com/Bharath-2112/Data-Analysis-Dashboard/blob/main/Blinkit%20Data%20Analysis.xlsx">View Dashboard</a>
+
